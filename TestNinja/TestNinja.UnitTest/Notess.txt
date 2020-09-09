@@ -1,0 +1,14 @@
+﻿MSTest and NUnity
+// install NUnity
+install-package NUnit -version 3.8.1
+install-package NUnit3TestAdapter -version 3.8.0
+TEST THE OUTCOME OF METHOD
+[MethodName][Scenario][ExpectedResults] 
+Types of Methods/Function
+
+Query    => Return some value
+
+Commands => Changed the state of Objects e.g write db,calling API
+
+Rider IDE crossplatform
+SetUp amd TearDown
